@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoURI": "mongodb+srv://Boris:ponomarenko@cluster0.uzciy.mongodb.net/firstApp?retryWrites=true&w=majority",
+    "jwtSecret": "boris mern car",
+    "baseUrl": "http://localhost:5000"
+}

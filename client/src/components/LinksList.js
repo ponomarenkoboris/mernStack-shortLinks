@@ -5,6 +5,7 @@ export const LinksList = ({ links }) => {
     if (!links.length){
         return <p className="center">Ссылок пока нет</p>
     }
+    // add link name field
     return (
         <table>
             <thead>
